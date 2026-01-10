@@ -17,7 +17,7 @@ git commands-------------->
 15.git restore --staged <file name> (this will remove the file from staging process), in this the changes are no reverted. so to revert it back to the original state run "git restore" command
 16.git restore . (this is very important command as this will restore all the file to its original state.)
 17.git commit --amend -m " the message you want" (this will allow you to change an existing message of a specified file)
-18.
+18.git reset HARD~1 (This will revert one commit back of the file which was last committed )
 19.
 '''
 
