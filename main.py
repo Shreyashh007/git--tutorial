@@ -17,11 +17,13 @@ git commands-------------->
 15. git restore --staged <file name> (this will remove the file from staging process), in this the changes are no reverted. so to revert it back to the original state run "git restore" command
 16. git restore . (this is very important command as this will restore all the file to its original state.)
 17. git commit --amend -m " the message you want" (this will allow you to change an existing message of a specified file)
-18. git reset HARD~1 (This will revert one commit back of the file which was last committed )
+18. git reset HEAD~1 (This will revert one commit back of the file which was last committed )
 19. .gitignore (this contains a file that will be ignored and won't be visible in the git bash terminal)
 20. *.log (this will ignore all the log files)
 21. node_modules/ (thiswill ignore the directories)
-22. 
-23.
+22. !important.log (this will show the log file which is not being ignore) 
+23. git rm <filename> (remove file from repository and disk)
+24. git rm --cached <filename> (remove file from repository but keep on disk)
+25. 
 '''
 

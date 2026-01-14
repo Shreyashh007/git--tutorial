@@ -3,3 +3,5 @@ db.py
 *.log
 node_modules/
 !important.log
+about.html
+
