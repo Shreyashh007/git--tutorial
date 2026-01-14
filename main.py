@@ -9,15 +9,19 @@ git commands-------------->
 7. git log (to view the history of commited changes within a git repository)
 8. git log --oneline (this is will display all the committed changes of log in a simplified manner) 
 9. git config --list (show the added username,email, address etc and many other things)
-10.git config --global user.name "shreyash" (adds the username)
-11.git config --global user.email " shreyash.capricorn21@gmail.com"(adds the email)
-12.git clone (copy paste url or link) ---(clone a repository)\
-13.git diff(shows the exact changes made in the file) press Q to exit this state
-14.git restore <file name> (it restores the previous changes in the file you've made changes)
-15.git restore --staged <file name> (this will remove the file from staging process), in this the changes are no reverted. so to revert it back to the original state run "git restore" command
-16.git restore . (this is very important command as this will restore all the file to its original state.)
-17.git commit --amend -m " the message you want" (this will allow you to change an existing message of a specified file)
-18.git reset HARD~1 (This will revert one commit back of the file which was last committed )
-19.
+10. git config --global user.name "shreyash" (adds the username)
+11. git config --global user.email " shreyash.capricorn21@gmail.com"(adds the email)
+12. git clone (copy paste url or link) ---(clone a repository)\
+13. git diff(shows the exact changes made in the file) press Q to exit this state
+14. git restore <file name> (it restores the previous changes in the file you've made changes)
+15. git restore --staged <file name> (this will remove the file from staging process), in this the changes are no reverted. so to revert it back to the original state run "git restore" command
+16. git restore . (this is very important command as this will restore all the file to its original state.)
+17. git commit --amend -m " the message you want" (this will allow you to change an existing message of a specified file)
+18. git reset HARD~1 (This will revert one commit back of the file which was last committed )
+19. .gitignore (this contains a file that will be ignored and won't be visible in the git bash terminal)
+20. *.log (this will ignore all the log files)
+21. node_modules/ (thiswill ignore the directories)
+22. 
+23.
 '''
 
