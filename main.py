@@ -27,10 +27,17 @@ git commands-------------->
 23. git rm <filename> (remove file from repository and disk)
 24. git rm --cached <filename> (remove file from repository but keep on disk)
 25. git mv <oldfile name> then <new file name> (this "mv" will change the file name)
+<<<<<<< HEAD
 26. git switch -c ui-revolution (this will create a new branch named "ui -revolution")
 27. git switch master (this will switch to the default branch called "branch master")
 28. 
 29.
+=======
+26. git switch -c ui-revolution(any name can be inserted) (this swtich command will make a new branch, like "Branch master") 
+27. git branch -( this will show the number of branches)
+28. git branch -d ui-revolution (this will delete this ui-revolution branch)
+29. 
+>>>>>>> ui-revolution
 30.
 '''
 
