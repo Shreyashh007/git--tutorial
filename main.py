@@ -36,6 +36,13 @@ git commands-------------->
 32. git remote add origin <paste link>  (this will add the respective link to be pushed in the github)
 33. git push -u origin <main> (In github mostly the main named branch is used while in git bash the master is used)
    in this all your code will be pushed to the new repository you have created and all the code files will be visible to you
-34. 
+34. git pull (to pull the changes made in the github not in the git bash)
+35. git branch -r (this shows the list of branches)
+36. git 
+37.
+38.
+39.
+40.
+
 '''
 
