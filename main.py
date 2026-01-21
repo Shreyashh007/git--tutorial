@@ -38,8 +38,8 @@ git commands-------------->
    in this all your code will be pushed to the new repository you have created and all the code files will be visible to you
 34. git pull (to pull the changes made in the github not in the git bash)
 35. git branch -r (this shows the list of branches)
-36. git 
-37.
+36. git stash (this command is a way to store the changes made in the file temporarily)
+37. git stash apply(this will show the changes and allow you to push them ahead )
 38.
 39.
 40.
