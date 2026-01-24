@@ -40,8 +40,8 @@ git commands-------------->
 35. git branch -r (this shows the list of branches)
 36. git stash (this command is a way to store the changes made in the file temporarily)
 37. git stash apply(this will show the changes and allow you to push them ahead )
-38.
-39.
+38. git stash pop(shows the stashed changes)
+39.  
 40.
 
 '''
