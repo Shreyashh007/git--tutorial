@@ -29,7 +29,7 @@ git commands-------------->
 25. git mv <oldfile name> then <new file name> (this "mv" will change the file name)
 26. git switch -c ui-revolution (this will create a new branch named "ui -revolution")
 27. git switch master (this will switch to the default branch called "branch master")
-28. git switch -c ui-revolution(any name can be inserted) (this swtich command will make a new branch, like "Branch master") 
+28. git switch -c ui-revolution(any name can be inserted) (this switch command will make a new branch, like "Branch master") 
 29. git branch -( this will show the number of branches)
 30. git branch -d ui-revolution (this will delete this ui-revolution branch)
 31. git remote -v (this is used to view your remote repository)
